@@ -1,1 +1,1 @@
-[DevSecOps Mind Map](https://www.teachera.io/devsecops-mindmap/) 
+[https://www.teachera.io/devsecops-mindmap/](https://github.com/f474m0r64n4/MindMaps/DevSecOps.md)
